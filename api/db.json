@@ -1,0 +1,61 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "movieName": "Kapıcılar Kıralı",
+      "movieUrl": "https://www.youtube.com/embed/o1lLnQhQcgA",
+      "moviePictureUrl": "https://i2.milimaj.com/i/milliyet/75/0x410/5dc8fdf45542840388f45759.jpg",
+      "movieReleaseDate":1976,
+      "rate":9.3,
+      "movieDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus tenetur aliquam, quas, nemo culpa dolore aperiam maxime maiores inventore cupiditate provident perferendis at quasi voluptates iste quam. Alias, culpa minus? "
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "movieName": "Sakar Şakir",
+      "movieUrl": "https://www.youtube.com/embed/4J3ulqHkgRM",
+      "moviePictureUrl": "https://im.haberturk.com/2019/07/03/ver1562102124/2500709_6df38d6e549f7107862ee34e73f028ad.jpg",
+      "movieReleaseDate":1977,
+      "rate":8,
+      "movieDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus tenetur aliquam, quas, nemo culpa dolore aperiam maxime maiores inventore cupiditate provident perferendis at quasi voluptates iste quam. Alias, culpa minus?"
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "movieName": "Selvi Boylum Al Yazmalım",
+      "movieUrl": "https://www.youtube.com/embed/0u2XHF5q6pM",
+      "moviePictureUrl": "https://i2.milimaj.com/i/milliyet/75/1200x675/5cbdf8b0ec10bb1c504a8710.jpg",
+      "movieReleaseDate":1977,
+      "rate":9,
+      "movieDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus tenetur aliquam, quas, nemo culpa dolore aperiam maxime maiores inventore cupiditate provident perferendis at quasi voluptates iste quam. Alias, culpa minus?"
+    },
+    {
+      "id": 4,
+      "categoryId":3,
+      "movieName": "Kara Murat",
+      "movieUrl": "https://www.youtube.com/embed/ZXbomW1dmN4",
+      "moviePictureUrl": "https://i.ytimg.com/vi/gYmfyZBSS40/maxresdefault.jpg",
+      "movieReleaseDate":1975,
+      "rate":7.6,
+      "movieDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus tenetur aliquam, quas, nemo culpa dolore aperiam maxime maiores inventore cupiditate provident perferendis at quasi voluptates iste quam. Alias, culpa minus?"
+    }    
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Komedi",
+      "seoUrl": "komedi-filmleri"
+    },
+    {
+      "id": 2,
+      "categoryName": "Dram",
+      "seoUrl": "dram-filmleri"
+    },
+    {
+      "id": 3,
+      "categoryName": "Aksiyon",
+      "seoUrl": "aksiyon-filmleri"
+    }
+  ]
+}
